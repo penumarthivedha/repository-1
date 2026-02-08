@@ -25,9 +25,4 @@ It is a static website with no backend or JavaScript.
 > No frameworks
 > 
 ## Live Link
-🔗 https://penumarthivedha.github.io/repo-1/
-
-## How to Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/penumarthivedha/repo-1.git
+🔗 https://penumarthivedha.github.io/repository-1/
